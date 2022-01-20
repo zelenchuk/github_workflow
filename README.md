@@ -66,9 +66,14 @@ https://medium.com/@devesu/how-to-logout-from-git-in-windows-e17c66fe9ca8
 `git config user.email "new@email.com"`
 
 
-### 3. Try to commit and check who been the author of this sending. If that you? Thats works! Enjoy!
+### 3. Checking
 
-GitHub or Bitbucket ask you to login again!
+- Try to commit. 
 
-### 4. Enjoi
+- GitHub or Bitbucket ask you to login again!
+
+- Check who been the author of this sending. If that you? Thats works!
+
+
+### 4. Enjoy
 
