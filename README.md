@@ -12,3 +12,7 @@ https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/c
 1. Try clone repo. And edit files.
 2. Generate token by link upper and try to add, commit and push updates.
 3. Example
+
+- GitHub ask for entering token
+- We need paste our token and thats all!
+- Enjoi
