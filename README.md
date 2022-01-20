@@ -37,3 +37,9 @@ https://stackoverflow.com/questions/22844806/how-to-change-my-git-username-in-te
 `
 git remote set-url origin https://github.com/zelenchuk/github_workflow
 `
+
+
+### Change git user on PC
+
+
+1.
