@@ -51,7 +51,19 @@ https://medium.com/@devesu/how-to-logout-from-git-in-windows-e17c66fe9ca8
 Панель управления\Все элементы панели управления\Диспетчер учетных данных
 
 
-2. Try to push
+2. Git unset 
 
-3.
+
+`git config user.name --unset`
+`git config user.email --unset`
+
+`git config user.name "new_username"`
+`git config user.email "new@email.com"`
+
+
+3. Try to commit and check what profile commit changes. If that you? Thats work!
+
+GitHub or Bitbucket ask you to login again!
+
+4. Enjoi
 
