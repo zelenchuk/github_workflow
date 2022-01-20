@@ -1,5 +1,5 @@
-# github_workflow
-About GitHub workflow
+# About GitHub workflow
+
 
 
 ## Read this
@@ -22,17 +22,20 @@ https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/c
 ## Change repo 
 
 
-1. Read this
+
+### 1. Read this
 
 https://stackoverflow.com/questions/22844806/how-to-change-my-git-username-in-terminal
 
 
-2. Try
+
+### 2. Try 
 
 `git remote set-url origin https://{new url with username replaced}`
 
 
-3. Example for me
+
+### 3. Example for me
 
 `
 git remote set-url origin https://github.com/zelenchuk/github_workflow
@@ -63,7 +66,7 @@ https://medium.com/@devesu/how-to-logout-from-git-in-windows-e17c66fe9ca8
 `git config user.email "new@email.com"`
 
 
-### 3. Try to commit and check what profile commit changes. If that you? Thats work!
+### 3. Try to commit and check who been the author of this sending. If that you? Thats works! Enjoy!
 
 GitHub or Bitbucket ask you to login again!
 
