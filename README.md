@@ -55,9 +55,11 @@ https://medium.com/@devesu/how-to-logout-from-git-in-windows-e17c66fe9ca8
 
 
 `git config user.name --unset`
+
 `git config user.email --unset`
 
 `git config user.name "new_username"`
+
 `git config user.email "new@email.com"`
 
 
