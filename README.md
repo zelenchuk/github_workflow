@@ -41,5 +41,15 @@ git remote set-url origin https://github.com/zelenchuk/github_workflow
 
 ### Change git user on PC
 
+READ THIS
 
-1.
+https://medium.com/@devesu/how-to-logout-from-git-in-windows-e17c66fe9ca8
+
+
+1. Delete all auth on DESCTOP (PC):
+
+Панель управления\Все элементы панели управления\Диспетчер учетных данных
+
+
+2. Try to push
+
