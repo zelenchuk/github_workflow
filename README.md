@@ -35,5 +35,5 @@ https://stackoverflow.com/questions/22844806/how-to-change-my-git-username-in-te
 3. Example for me
 
 `
-git remote set-url origin https://github.com/zelenchuk
+git remote set-url origin https://github.com/zelenchuk/github_workflow
 `
